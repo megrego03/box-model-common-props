@@ -551,9 +551,7 @@ footer{
 */
 #bg-img-3{
     background: var(--lt-blue) center url("images/puppy-photo.jpg");
-
-
-    
+   
 }
 
 /* For the fourth div, let's style this like the second div, but let's change the height of the div to 100px, so it fits the height of the image. It will make it look like the image and div are the same height */
